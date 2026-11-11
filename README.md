@@ -1,4 +1,4 @@
-# Headphone Parametric EQ (STM32F407-DISC1)
+# Headphone Parametric EQ (STM32F407G-DISC1)
 
 A USB audio device that applies a 5-band parametric EQ to whatever the PC plays and
 outputs it through the headphone jack of the STM32F407G-DISC1 board.
@@ -81,4 +81,3 @@ stops or restarts.
 
 The code in `Drivers/` and `Middlewares/` and the generated files come from
 STMicroelectronics and keep their own licence terms.
-
