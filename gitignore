@@ -1,0 +1,27 @@
+# STM32CubeIDE / Eclipse build output
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.srec
+*.launch
+
+# Eclipse / IDE local state
+.metadata/
+.settings/
+RemoteSystemsTempFiles/
+
+# Debugger logs
+st-link_gdbserver_log.txt
+*.log
+
+# OS junk
+Thumbs.db
+.DS_Store
