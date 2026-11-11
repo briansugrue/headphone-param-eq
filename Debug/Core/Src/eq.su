@@ -1,7 +1,0 @@
-../Core/Src/eq.c:79:12:design_band	112	static
-../Core/Src/eq.c:150:15:stage_mag2	80	static
-../Core/Src/eq.c:163:13:clear_state	4	static
-../Core/Src/eq.c:172:13:set_led	0	static
-../Core/Src/eq.c:177:6:EQ_Init	344	static
-../Core/Src/eq.c:242:13:poll_button	8	static
-../Core/Src/eq.c:265:6:EQ_Process	24	static
